@@ -57,8 +57,7 @@ open index.html
 
 ## Deployment
 
-Hosted on **GitHub Pages**. Any push to `main` automatically updates the live site within a minute or two. Custom domain configured via the `CNAME` file pointing to `ckotsiopulos.dev`.
-
+Hosted on **GitHub Pages**. Any push to `main` automatically updates the live site within a minute or two. Custom domain configured via github.io.
 ---
 
 ## Contact
